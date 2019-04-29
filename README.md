@@ -1,4 +1,4 @@
-# Ball-and-Plate-System
+# Ball and Plate System
 A Ball &amp; Plate System using Noise-immune PD Control
 
 <p align="center">
